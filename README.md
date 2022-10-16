@@ -1,1 +1,1 @@
-# Air-Qulaity-Index
+# Air-Quality-Index
